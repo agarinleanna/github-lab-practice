@@ -1,1 +1,1 @@
-"This is Leanna Agarin's-A Project"
+"This is a Collaborative Project by Leanna and Nicah"
