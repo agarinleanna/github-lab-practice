@@ -1,2 +1,2 @@
 
-# This is a Collaborative Project by Leanna and Nicah
+# This is Collaborative Project
